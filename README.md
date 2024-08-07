@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 # Random-Quote-Machine
 
-**See the code in action:** https://codepen.io/Yousef-Rashwan/pen/OJepMyd
+**See the code in action:** https://codepen.io/Yousef-Rashwan/full/OJepMyd
